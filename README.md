@@ -38,7 +38,7 @@ After installing the extension, visit HitBullsEye on your browser. The extension
 ## Screenshots
   
 <!-- Screenshot 1 -->
-<img src="/Users/yaswanth/LPU/Hitbullseye-Test-Analysis/images/ss.png" style="width: 70%">
+<img src="https://github.com/yaswanth-github/Hitbullseye/blob/main/images/ss.png" style="width: 70%">
 
 ## Support and Contribution
 
